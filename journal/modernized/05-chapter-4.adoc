@@ -339,10 +339,10 @@ I was afraid, for I thought they came for argument, which I was not fond of.
 I sat a little to think when it came into my mind to ask a few questions, which would,
 perhaps, bring the matter to a close.
 I proceeded: "`Did I understand you that you believe there are Quakers in Heaven?`"
-Answer, "`Yes.`"
-Question--"`Is there any way to get into heaven, but by Christ, the door?`"
-Answer, "`No.`" Question--"`Are they ever turned out when once admitted.`"
-Answer, "`No.`" I then remarked,
+_Answer,_ "`Yes.`"
+__Question--__"`Is there any way to get into heaven, but by Christ, the door?`"
+_Answer,_ "`No.`" __Question--__"`Are they ever turned out when once admitted.`"
+_Answer,_ "`No.`" I then remarked,
 "`Then I think the Quakers have the better of the Baptists, and make a saving.`"
 He said, "`Why so?`"
 I remarked, "`We save the labor of going down into the water, and coming out again,
@@ -974,6 +974,7 @@ and bless the service of the day to the people.
 The 30th of the 8th month I started for home, reaching there in three days,
 found my family well, and we were mutually glad to see each other once more.
 
+[.offset]
 The following occurrences took place during the foregoing journey:
 
 Abigail +++_______+++ and her husband, with their adherents,
@@ -1001,7 +1002,7 @@ After meeting, four or five very grave-faced persons came to the house where I w
 and with much affected sanctity,
 questioned me as to how I felt in the company of my intended companion.
 I answered, "`Very well; he appears an agreeable man.`"
-Question--"`Do you feel no disagreeable feelings when in his company?`"
+__Question--__"`Do you feel no disagreeable feelings when in his company?`"
 I answered, "`No, not at all.`"
 The reply was, "`I marvel that such a great seer as you are,
 can be with such a man and not feel him out.`"
@@ -1029,9 +1030,9 @@ Some might be hurt by such treatment, and get off the right ground;
 so that it is clear to me you are lacking in best wisdom.
 Have you told the Friend of this objection?`"
 The answer was,
-"`No.`" Question--"`Did you know of it as long ago as when he offered his service?`"
+"`No.`" __Question--__"`Did you know of it as long ago as when he offered his service?`"
 The answer was, "`Yes.`"
-Question--"`Why have you lain still?`"
+__Question--__"`Why have you lain still?`"
 The answer was, "`We feel very weak, and were in hopes you would feel him out.`"
 I answered, "`Friends, you are wrong;
 for the Great Master portions the work to every servant, and hand-maid,

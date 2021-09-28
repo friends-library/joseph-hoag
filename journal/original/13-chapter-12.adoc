@@ -206,7 +206,7 @@ Truth had the victory.
 Blessed be the God of Truth!
 
 After meeting, with a pilot I drove to Dover, and third day morning,
-went to Meaderboro`'. Thence, with Ezekiel Jones for company, I went to New Durham,
+went to Meaderborough. Thence, with Ezekiel Jones for company, I went to New Durham,
 where I had a meeting, and returned to Meaderboro`',
 and attended their Preparative Meeting.
 The day following, we had a meeting at Chestnut Hill, and drove to South Durham,
@@ -236,7 +236,7 @@ exercising meeting; yet the Lord`'s Divine mercy was good,
 as he gave ability and utterance to discharge the duty He required of me,
 and richly rewarded with heavenly peace.
 Then returned to New Durham, and attended that and Chestnut Hill,
-Meaderboro`' and Lower Rochester meetings,
+Meaderborough and Lower Rochester meetings,
 and returned to Dover and attended their meeting on first day,
 and a funeral in the afternoon.
 In both I had laborious testimonies to bear,
@@ -566,6 +566,9 @@ the first time that I had an opportunity to hear her, except a few words,
 and to my satisfaction, found she was an able Gospel minister.
 The day following, sixth day, the 10th of 3rd month, I went to Wolfsborough.
 
+[.small-break]
+'''
+
 +++[+++No further narrative of this journey is given,
 and at what time he arrived at his own home, is not certainly ascertained; yet,
 it is believed not to be long after the close of his narrative at Wolfsborough,
@@ -575,8 +578,13 @@ and children about the middle of his last visit to New England,
 will be familiar to those who have been acquainted with him in conversation;
 from the manner of style and expression.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Portland, 24th of 10th month, 1831.
 
+[.salutation]
 Beloved Wife and Children:
 
 I take my pen once more to address you, with making this apology,
@@ -684,4 +692,7 @@ for the peaceful welfare of my own country,
 than at this time.
 Farewell.
 
+[.signed-section-signature]
 Joseph Hoag.
+
+--

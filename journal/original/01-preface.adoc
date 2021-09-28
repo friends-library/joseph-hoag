@@ -55,6 +55,10 @@ with the principles of both of those leaders.
 He, therefore, took measures to guard against these evils,
 by adopting the following course, and giving forth the subjoined testimony:
 
+[.embedded-content-document.testimony]
+--
+
+[.signed-section-context-open]
 Monkton, 1st month, 5th, 1846
 
 Having, from my younger life, felt best to keep by writing,
@@ -90,13 +94,21 @@ that those who do witness this procedure, or the survivors or survivor of them,
 should place them in the hands of some sound, substantial Friend or Friends,
 agreeably to the foregoing request.
 
+[.signed-section-signature]
 Joseph Hoag
+
+[.postscript]
+====
 
 We being present, know the signer of the foregoing to do it of his own free act,
 and requested us to witness the same.
 
-Amos Battey, Ruth Battey Moses Huntington, Elizabeth Huntington Joshua F. Meader,
-Joanna Worth.
+====
+
+[.signed-section-signature]
+Amos Battey, Ruth Battey, Moses Huntington, Elizabeth Huntington, Joshua F. Meader, Joanna Worth.
+
+--
 
 Although our deceased Friend was not highly learned in the literature of the age,
 and some of the expressions contained in the following journal

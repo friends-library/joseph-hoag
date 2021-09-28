@@ -5,6 +5,8 @@ at the meeting referred to below,
 and has been corroborated by the testimony of Starksboro Monthly Meeting,
 and other reliable witnesses.
 
+[quote]
+____
 In the Fall of the year, 1837, at Starksboro Monthly Meeting, held at Lincoln, Vermont,
 Joseph Hoag, in a solemn and impressive way, spoke at considerable length,
 of the severe trials that Friends had passed through in many places,
@@ -35,11 +37,14 @@ you may pen it down if you please, as it will cause a greater split,
 than that we have passed through.`"
 The solemnity attendant at that memorable time, is still lively,
 in the remembrance of many then present.
+____
 
 The following account of the travels and religious meetings attended
 by Joseph Hoag in Ohio and Indiana Yearly Meetings in 1840-41,
 was kept by his kind Friend and companion, Job S. Collins, of Utica.
 
+[quote]
+____
 They left Utica, the 6th of 7th month, 1840, in a boat bound for Buffalo,
 and arrived safe at Lockport, the 10th;
 dined at Jesse P. Haine`'s. From thence to Mead Atwater`'s, put up there,
@@ -148,6 +153,7 @@ Thence to New Hope, and attended meeting there.
 13th, attended their meeting, and an appointed meeting at 3 o`'clock, at Silver Creek.
 Thence to Millborough--Joseph was favored at both the last meetings.
 On second day, we attended meeting, at Poplar Ridge, which was favored.
+
 15th, had an appointed meeting at Orange.
 Thence to Woodbury, and attended an appointed meeting at Chester.
 19th, at Dover; then to Concord, and New Garden, on the 20th. 21st, at Newport.
@@ -194,10 +200,14 @@ where we arrived on the 3rd. We then proceeded to Lockport and
 attended an appointed meeting there on the 5th. The 7th,
 we attended Farmington Quarterly Meeting for worship, and were at Rochester,
 on first day, the 10th, arriving safely at Utica, on the 15th.
+____
 
+[.offset]
 The following account is given by Benjamin Taber,
 who took Joseph Hoag from Utica to his own home:
 
+[quote]
+____
 On the 21st of 10th month we rode thirty-two miles,
 part of the way through deep mirey roads.
 22nd, we traveled to Galway and lodged at Caleb Palmer`'s. Seventh day, 23rd,
@@ -233,6 +243,7 @@ Third day morning the 2nd of 11th month, we started very early,
 and rode twenty-four miles in season to take refreshment
 before attending Ferrisburgh Select Preparative Meeting;
 thence to Uncle`'s home.
+____
 
 As our beloved Friend Joseph Hoag,
 did not keep any account of the preceding journey himself,
@@ -263,6 +274,8 @@ with his son Joseph D. who had recently removed there.
 He returned back to Willis and Ann Smith`'s, at Greenwich, Ohio,
 from whom the following account has been received.
 
+[quote]
+____
 We think it was in the latter part of 7th month, 1844,
 that Joseph Hoag came to our house, being desirous to go to Lake Erie to embark for home.
 He mentioned, that though he was preparing to return, there was a cloud before him,
@@ -303,6 +316,7 @@ We could fill many sheets with his expressions whilst confined,
 but perhaps this may suffice.
 We know that some here and at other places say, he was childish, but we believe,
 he was a strong man in the Lord.
+____
 
 It appears from the records of Ferrisburg Monthly Meeting,
 that he returned the forementioned minute the 28th of 8th month, 1844,
@@ -312,6 +326,8 @@ expressive of his company and gospel labors while among them, being satisfactory
 
 The following was taken down in his own words, by his daughter, the late Hannah H. Battey:
 
+[quote]
+____
 I attended the Yearly Meeting in New York, in 1845, which to me was a painful,
 distressing time, especially some of the sittings;
 though unable to hear one word that was spoken in meetings,
@@ -329,8 +345,13 @@ They do not tell me much about it,
 but I cannot get rid of the impression that he has been, not only a sufferer,
 but a deeply injured man, and that by false brethren.
 If so, will not one be raised up to plead his cause, or defend him in this day of trial?
+____
 
+[.offset]
 The following information is obtained from the records of Ferrisburg Monthly Meeting.
+
+[.embedded-content-document.testimony]
+--
 
 On the 28th of 2nd month, 1845, our aged Friend Joseph Hoag,
 obtained a minute to perform a religious visit to Friends and others,
@@ -343,6 +364,9 @@ which it appears he was enabled mostly to perform.
 
 These appear to be his last religious visits with minutes.
 He attended New York Yearly Meeting, in 1846.
+
+[.small-break]
+'''
 
 "`9th month, 5th, 1846.
 
@@ -448,18 +472,30 @@ and thus bring a reproach upon the Truth, then let this all be put in oblivion,
 that it never be known that such a writing ever was;`"
 which he appeared to assent to cheerfully.`"
 
+[.signed-section-signature]
 Joseph Hoag.
+
+[.postscript]
+====
 
 Neither had he assented to any writing understandingly,
 which might carry a different meaning to the foregoing.
 And as he wished us to be witnesses, we have hereunto set our hands.
 
+====
+
+[.signed-section-signature]
 Ruth Battey, William C. Battey, Lydia Worth, Louisa Battey, Nicholas Battey,
 Thankful Battey.
+
+--
 
 +++[+++As the subjects alluded to in the following vision, are of general interest,
 and much expression having been given in favor of its being appended to this journal,
 it is concluded to do so:]
+
+[.embedded-content-document.paper]
+--
 
 In the year 1803, probably in the eighth or ninth month,
 I was one day alone in the fields, and observed that the sun shone clear,
@@ -468,10 +504,10 @@ As I reflected upon the singularity of the event, my mind was struck into a sile
 the most solemn I ever remember to have witnessed,
 for it seemed as if all my faculties were laid low,
 and unusually brought into deep silence.
-I said to myself, '`what can all this mean?
+I said to myself, "`what can all this mean?
 I do not recollect ever before to have been sensible of
-such feelings.`' And I heard a voice from heaven say,
-'`This that thou seest, which dims the brightness of the sun,
+such feelings.`" And I heard a voice from heaven say,
+"`This that thou seest, which dims the brightness of the sun,
 is a sign of the present and coming times.
 I took the forefathers of this country from a land of oppression;
 I planted them here among the people of the forest.
@@ -482,7 +518,7 @@ and are running into every abomination and evil practice
 of which the old countries are guilty;
 and I have taken quietude from the land,
 and suffered a dividing spirit to come among them.
-Lift up thine eyes and behold.`' And I saw them dividing in great heat.
+Lift up thine eyes and behold.`" And I saw them dividing in great heat.
 This division began in the Church upon points of doctrine.
 It commenced in the Presbyterian Society,
 and went through the various religious denominations, and in its progress and close,
@@ -494,7 +530,7 @@ it raged in as high a degree as any I had before discovered, and as before,
 those who separated, went with lofty looks and taunting, censoring language;
 those who kept to their ancient principles, retired by themselves.
 
-"`It next appeared in the Lodges of the Free Masons,
+It next appeared in the Lodges of the Free Masons,
 and it broke out in appearance like a volcano,
 inasmuch as it set the country in an uproar for a length of time.
 Then it entered politics throughout the United States, and did not stop,
@@ -506,7 +542,7 @@ of the States--established a national religion,
 and made all Societies tributary to support its expenses.
 I saw them take property from Friends to a large amount.
 I was amazed at beholding all this, and heard a voice proclaim,
-'`this Power shall not always stand,
+"`this Power shall not always stand,
 but with this Power I will chastise my Church until
 they return to the faithfulness of their forefathers.
 Thou seest what is coming on thy native land for their iniquity, and the blood of Africa;
@@ -515,8 +551,15 @@ This vision is yet for many days.`"
 I had no idea of writing it down for many years, until it became such a burden,
 that for my own relief I have written it.
 
+[.signed-section-signature]
 Joseph Hoag
 
+--
+
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 A Testimony of Starksboro Monthly Meeting of Friends, Concerning our Beloved Friend,
 Joseph Hoag, Deceased
 
@@ -819,7 +862,11 @@ has doubtless received a crown of glory that fadeth not away.
 
 Signed on behalf of Starksboro Monthly Meeting, held the 4th of 3rd mon 1853.
 
+[.signed-section-signature]
 James Harkness, Susannah Hoag, Clerks.
+
+[.postscript]
+====
 
 The foregoing Memorial, from Starksboro Monthly Meeting, concerning our beloved Friend,
 Joseph Hoag, deceased, was read in this meeting,
@@ -829,4 +876,9 @@ having the women`'s concurrence therein.
 Signed by direction of Ferrisburg Quarterly Meeting of Friends,
 held at Starksboro the 5th of 5th month, 1853, by
 
+====
+
+[.signed-section-signature]
 Amos Battey, Clerk.
+
+--
