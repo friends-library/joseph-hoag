@@ -137,7 +137,7 @@ We agreed to pay no attention to reports,
 or parties but to go into the merits of the case by proof,
 and we kept to it with a steady eye, to close the business with truth and justice,
 and let each party make the best defense they could by proof.
-The Friend who had been harrassed so much in our Monthly Meeting,
+The Friend who had been harassed so much in our Monthly Meeting,
 was the first who was brought on for a witness in this case.
 His testimony appeared clear and correct, but was denied by one,
 until it was confirmed by several of the first characters; then he gave it up,
@@ -1017,7 +1017,10 @@ possessing all the feelings of sensibility that we have,
 and that they were as capable of being improved as we were.
 When they had tired themselves, they turned to a plain, genteel looking man,
 and asked his opinion on the subject, who answered thus:
-"`There has lately been a missionary out on a visit to a tribe of Indians,
+
+[quote]
+____
+There has lately been a missionary out on a visit to a tribe of Indians,
 that never had been visited by a Christian minister before,
 who preached to them four times.
 At length, he took up the subject of the conception, birth, life, miracles, ministry,
@@ -1030,12 +1033,13 @@ and if they do not approve, they hear him no more--they called a council,
 but could not altogether agree in belief;
 so they put it on one of their chief speakers to give the minister an answer.
 
-The Indian said, '`Well, then me go into the woods,`' and retired about four hours.
-When he returned, the Indians gathered about him, and said, '`Well,
-what you think?`' He replied, '`O, minister preach true, certain.`' One exclaimed,
-'`Minister no preach true; a man hang up till he is dead, a great hole cut in his side,
-all the blood, all the water run out; he no live certain.`' Then the chief speaker began.
-Now you hear me; me tell you.
+The Indian said, "`Well, then me go into the woods,`" and retired about four hours.
+When he returned, the Indians gathered about him, and said, "`Well,
+what you think?`" He replied, "`O, minister preach true, certain.`" One exclaimed,
+"`Minister no preach true; a man hang up till he is dead, a great hole cut in his side,
+all the blood, all the water run out; he no live certain.`" Then the chief speaker began:
+
+"`Now you hear me; me tell you.
 The Great Spirit speak all things; He make all the people; they all His children;
 He love them all; He tell them to love one another, and do good to one another.
 But some of His children, by and by, grow bad; they quarrel; they cheat; they tell lies;
@@ -1069,12 +1073,15 @@ The Great Spirit much sorry to see His children so wicked.
 Now, you remember; the Great Spirit speak that body; He no lose that body;
 He speak that body to life again; He call His son home.
 That body, spirit before He came into the world; that body spirit now.
-The minister preach true, certain.`'`" Here, he stopped, with this observation: "`Now,
+The minister preach true, certain.`"
+
+Here, he stopped, with this observation: "`Now,
 gentlemen, you may judge for yourselves,`" got up and went off.
 I was sorry that I had not detained him a little, to know who, and what he was;
 but my mind was in such a muse on the subject,
-that I did not re-collect myself until he was gone; and I can say no more,
+that I did not recollect myself until he was gone; and I can say no more,
 than that he appeared to be a sensible candid man--and was very likely a Methodist Missionary.
+____
 
 From this western travel, we put forward to Brothertown, where we found a few Friends;
 some living with the Indians, and had several meetings thereabouts, to good satisfaction.
